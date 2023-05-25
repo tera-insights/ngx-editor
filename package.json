@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "tcrypt-frontend",
+  "name": "ngx-editor",
   "version": "0.1.0",
   "scripts": {
     "build:demo": "ng build demo",
